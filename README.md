@@ -34,7 +34,7 @@ For the TN data, used for evaluating release month and production budget, the da
 
 ![Run Time vs  Net Profit](https://user-images.githubusercontent.com/100893109/164948817-bec7c4fb-beda-4167-afbb-e5958c4e4c79.png)
 
-## Restults/ Recommendation: 
+## Results/ Recommendation: 
 With a correlation coefficient of 0.225, there is a very weak, positive correlation between the a movie's runtime and the movie's net profit. 
 Most movies are between 90-140 minutes, however, the runtime of the movie does not have a strong correlation to the sucess of the movie, so Microsoft can choose to make the movie as long as they want without too much concern.   
 
@@ -42,7 +42,7 @@ Most movies are between 90-140 minutes, however, the runtime of the movie does n
 
 ![Frequency of Movies Premiered Per Month](https://user-images.githubusercontent.com/100893109/164948888-4915b9f6-6f8e-4756-a4b7-5ce9a0d045de.png)
 
-## Restults/ Recommendation: 
+## Results/ Recommendation: 
 
 A much higher percentage of the top 100 gross movies premeried in May, June, July, November and December, which makes sense given the summer months and before the holidays are popular months to go out.
 The movies not in the top 100 are much more evenly distributed throughout the year.
@@ -52,7 +52,7 @@ My recommendation would be to premiere your movies over the summer or before the
 
 ![Production Budget vs  Net Profit](https://user-images.githubusercontent.com/100893109/164948917-e2c94966-bf8d-4822-951b-7db892c07b25.png)
 
-## Restults/ Recommendation: 
+## Results/ Recommendation: 
 With a correlation coefficient of 0.608, there is a moderately positive correlation between the production budget and the movie's net profit, however this is not an absolute. Once the production budget gets above 50m, the chances of making a higher net profit increases, as we can see from the best fit line.
 
 ## Conclusion:
@@ -78,3 +78,13 @@ Project Workbook: https://github.com/julietday422/MovieDataProject/blob/main/Rep
 Presentation: https://github.com/julietday422/MovieDataProject/blob/main/presentation.pdf
 
 Images (JPEG and PNG): https://github.com/julietday422/MovieDataProject/tree/main/Images
+
+For any additional questions, please contact Juliet Day at julietday422@gmail.com
+
+## Repository Structure
+
+├── README.md                           <- The top-level README for reviewers of this project
+├── ReportNotebook.ipynb                <- Narrative documentation of analysis in Jupyter notebook
+├── Movie Analysis Data.pdf             <- PDF version of project presentation
+├── data                                <- Both sourced externally and generated from code
+└── images                              <- Both sourced externally and generated from code

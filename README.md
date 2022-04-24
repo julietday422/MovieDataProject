@@ -80,11 +80,3 @@ Presentation: https://github.com/julietday422/MovieDataProject/blob/main/present
 Images (JPEG and PNG): https://github.com/julietday422/MovieDataProject/tree/main/Images
 
 For any additional questions, please contact Juliet Day at julietday422@gmail.com
-
-## Repository Structure
-
-├── README.md                           <- The top-level README for reviewers of this project
-├── ReportNotebook.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-├── Movie Analysis Data.pdf             <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
